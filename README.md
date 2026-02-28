@@ -8,4 +8,7 @@ Usetage:The *URL* structure is https:/i.imgur.com/*.jpg
 Usetage:The *URL* structure is https:/second-level.internet.com/route/file.js
 ## https://ghproxy.net/ *URL*
 Usetage:The *URL* structure is https:/second-level.internet.com/route/file.js
+## https://gh.llkk.cc/ *URL*
+Usetage:The *URL* structure is https:/second-level.internet.com/route/file.js
+
 # To be continued
